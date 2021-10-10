@@ -13,7 +13,7 @@
 Refer to https://nodejs.org/en/ to install nodejs
 ### Install jest for testing
 
-npm install --save-dev
+npm i jest
 
 ### how to try codes
 1. for each exercice write in the terminal : node name_ex.js
