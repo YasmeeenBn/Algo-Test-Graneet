@@ -16,5 +16,5 @@ Refer to https://nodejs.org/en/ to install nodejs
 npm install --save-dev
 
 ### how to try codes
-for each exercice write in the terminal : node name_ex.js
-for the testing write : jest 
+1. for each exercice write in the terminal : node name_ex.js
+2. for the testing write : jest 
